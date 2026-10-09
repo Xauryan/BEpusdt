@@ -34,7 +34,7 @@
   "dependencies": {
     "@arco-design/color": "^0.4.0",
     "@vueuse/core": "^12.4.0",
-    "axios": "^1.16.0",
+    "axios": "^1.20.0",
     "dayjs": "^1.11.20",
     "echarts": "^6.0.0",
     "nprogress": "^0.2.0",
